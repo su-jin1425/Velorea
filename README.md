@@ -1,3 +1,7 @@
+git bash
+
+npm install
+
 yarn start
 
 yarn test
