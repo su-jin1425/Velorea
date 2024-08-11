@@ -18,7 +18,7 @@ const Six = () => {
     <div className="hover-three">
         <img src={HOV3} alt="" className="hover-pic" />
     </div>
-    <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="myButton-two">Shop all</a>
+    <a href="https://shoot-the-breeze.vercel.app/" className="myButton-two">Shop all</a>
   </div>;
 };
 
