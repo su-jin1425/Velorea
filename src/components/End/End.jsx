@@ -19,14 +19,14 @@ const End = () => {
         Velorea<sup className="end-sup">&#174;</sup>
         </p>
         <div className="footer-links">
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-one">Shop</a> <br />
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-two">Return Policy</a> <br />
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-three">legal</a>
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-one">Shop</a> <br />
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-two">Return Policy</a> <br />
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-three">legal</a>
         </div>
         <div className="footer-links-two">
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-one">About</a> <br />
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-two">Shopping Bag</a> <br />
-        <a href="https://su-jin1425.github.io/Shoot_The_Breeze/" className="link-three">contact</a>
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-one">About</a> <br />
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-two">Shopping Bag</a> <br />
+        <a href="https://shoot-the-breeze.vercel.app/" className="link-three">contact</a>
         </div>
     </div>
     <a href="https://su-jin1425.github.io/My_Portfolio/" className="credit-link">Crafted with artistry by Sujith.</a>
