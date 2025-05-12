@@ -29,7 +29,7 @@ const End = () => {
         <a href="https://shoot-the-breeze.vercel.app/" className="link-three">contact</a>
         </div>
     </div>
-    <a href="https://su-jin1425.github.io/My_Portfolio/" className="credit-link">Crafted with artistry by Sujith.</a>
+    <a href="https://sujith1425.vercel.app/" className="credit-link">Crafted with artistry by Sujith.</a>
     <p className="reserves">All rights reserved - Shoot the Breeze - Studio<sup className="end-sup">&#174;</sup></p>
   </div>;
 };
